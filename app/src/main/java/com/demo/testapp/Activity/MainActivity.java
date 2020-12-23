@@ -1,9 +1,11 @@
-package com.demo.testapp;
+package com.demo.testapp.Activity;
 
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
+
+import com.demo.testapp.R;
 
 import java.util.Arrays;
 
